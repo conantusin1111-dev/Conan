@@ -1,0 +1,6 @@
+{
+  "name": "Z Pay",
+  "description": "Fast & secure UPI payments, instant bank transfers, real-time transaction tracking, bill payments, and rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
